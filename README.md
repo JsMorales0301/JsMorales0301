@@ -2,7 +2,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🎓 &nbsp; Studying Technologist in data systematization and Web Full Stack MEAN.
+  - 🎓 &nbsp; Studying Web Full Stack MEAN.
   - 🌱 &nbsp; Learning about the Angular framework and JEST.
 </div> 
 
