@@ -2,7 +2,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🌱 &nbsp; Learning about the Angular framework and Mocha.
+  - 🌱 &nbsp; Learning about the Mocha Test Framework.
 </div> 
 
 
