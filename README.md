@@ -2,8 +2,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
-  - 🎓 &nbsp; Studying Web Full Stack MEAN.
-  - 🌱 &nbsp; Learning about the Angular framework and JEST.
+  - 🌱 &nbsp; Learning about the Angular framework and Mocha.
 </div> 
 
 
